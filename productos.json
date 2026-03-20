@@ -1,0 +1,703 @@
+[
+  {
+    "id": "a1",
+    "categoria": "Alimento",
+    "imagen": "https://media.falabella.com/sodimacCO/443544/public",
+    "nombre": "Pedigree Adulto Res y Vegetales",
+    "marca": "Pedigree",
+    "precio": 48000,
+    "presentacion": "25kg",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Croquetas para perros adultos con res y vegetales, nutrición completa.",
+      "stock": 50,
+      "valoracion": 4.6,
+      "promocion": true,
+      "precio_descuento": 42000
+    }
+  },
+  {
+    "id": "a2",
+    "categoria": "Alimento",
+    "imagen": "https://animalscenter.com/1419-large_default/whiskas-pouch-adulto-atun-salsa-x-85-gr-.jpg",
+    "nombre": "Whiskas Paté Atún",
+    "marca": "Whiskas",
+    "precio": 3500,
+    "presentacion": "85g",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Alimento húmedo para gatos adultos sabor atún.",
+      "stock": 200,
+      "valoracion": 4.8,
+      "promocion": false,
+      "precio_descuento": 3000
+    }
+  },
+  {
+    "id": "a3",
+    "categoria": "Alimento",
+    "imagen": "https://maxcotas.com.co/wp-content/uploads/2022/01/ROYAL_CANIN_MAXI_2-removebg-preview.png",
+    "nombre": "Royal Canin Maxi Adult",
+    "marca": "Royal Canin",
+    "precio": 220000,
+    "presentacion": "15kg",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Alimento premium para perros grandes, favorece articulaciones y digestión.",
+      "stock": 40,
+      "valoracion": 4.8,
+      "promocion": true,
+      "precio_descuento": 200000
+    }
+  },
+  {
+    "id": "a4",
+    "categoria": "Alimento",
+    "imagen": "https://mascotiendapasto.com/wp-content/uploads/2023/02/hillspusb.png",
+    "nombre": "Hill’s Science Diet Puppy",
+    "marca": "Hill’s",
+    "precio": 180000,
+    "presentacion": "7kg",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Alimento para cachorros, rico en DHA para desarrollo cerebral.",
+      "stock": 30,
+      "valoracion": 4.7,
+      "promocion": false,
+      "precio_descuento": 160000
+    }
+  },
+  {
+    "id": "a5",
+    "categoria": "Alimento",
+    "imagen": "https://resources.claroshop.com/medios-plazavip/mkt/5eff8848581aa_619yabwa6cl_optjpg.jpg",
+    "nombre": "Pro Plan Adulto Pollo y Arroz",
+    "marca": "Purina Pro Plan",
+    "precio": 210000,
+    "presentacion": "7.5kg",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Croquetas premium para gatos adultos, fortalece sistema inmune.",
+      "stock": 60,
+      "valoracion": 4.9,
+      "promocion": true,
+      "precio_descuento": 190000
+    }
+  },
+  {
+    "id": "a6",
+    "categoria": "Alimento",
+    "imagen": "https://www.agrocampo.com.co/media/catalog/product/cache/d51e0dc10c379a6229d70d752fc46d83/1/1/111111006_ed-min.jpg",
+    "nombre": "Royal Canin Kitten",
+    "marca": "Royal Canin",
+    "precio": 120000,
+    "presentacion": "2kg",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Alimento para gatitos hasta 12 meses, favorece crecimiento.",
+      "stock": 80,
+      "valoracion": 4.7,
+      "promocion": false,
+      "precio_descuento": 100000
+    }
+  },
+  {
+    "id": "a7",
+    "categoria": "Alimento",
+    "imagen": "https://www.habitatpets.com.au/cdn/shop/files/Hills-Science-Diet-Indoor-Adult-Dry-Cat-Food-4kg_1400x.jpg?v=1744041394",
+    "nombre": "Hill’s Science Diet Indoor Cat",
+    "marca": "Hill’s",
+    "precio": 160000,
+    "presentacion": "4kg",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Fórmula para gatos de interior, ayuda a controlar peso y bolas de pelo.",
+      "stock": 70,
+      "valoracion": 4.6,
+      "promocion": false,
+      "precio_descuento": 140000
+    }
+  },
+  {
+    "id": "a8",
+    "categoria": "Alimento",
+    "imagen": "https://www.agrocampo.com.co/media/catalog/product/cache/d51e0dc10c379a6229d70d752fc46d83/1/1/111100358_ed-min.jpg",
+    "nombre": "Nutra Nuggets Maintenance",
+    "marca": "Nutra Nuggets",
+    "precio": 200000,
+    "presentacion": "20kg",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Fórmula balanceada para perros adultos activos.",
+      "stock": 45,
+      "valoracion": 4.5,
+      "promocion": false,
+      "precio_descuento": 180000
+    }
+  },
+  {
+    "id": "a9",
+    "categoria": "Alimento",
+    "imagen": "https://petcol.co/cdn/shop/products/PRODUCTO_3e62c635-f2f7-4f80-a9a7-7ccf1f3b634d_928x.png?v=1570398012",
+    "nombre": "Felix Sensations Pollo en Salsa",
+    "marca": "Felix",
+    "precio": 3800,
+    "presentacion": "85g",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Alimento húmedo para gatos adultos con trozos de pollo en salsa.",
+      "stock": 180,
+      "valoracion": 4.6,
+      "promocion": false,
+      "precio_descuento": 3500
+    }
+  },
+  {
+    "id": "a10",
+    "categoria": "Alimento",
+    "imagen": "https://www.pedigree.cl/cdn-cgi/image/format=auto,q=90/sites/g/files/fnmzdf1511/files/2022-10/7797453000796-product-image-1_1.png",
+    "nombre": "Pedigree Sobre Carne en Salsa",
+    "marca": "Pedigree",
+    "precio": 4000,
+    "presentacion": "100g",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Alimento húmedo para perros adultos con trozos de carne en salsa.",
+      "stock": 120,
+      "valoracion": 4.7,
+      "promocion": true,
+      "precio_descuento": 3500
+    }
+  },
+  {
+    "id": "a11",
+    "categoria": "Alimento",
+    "imagen": "https://www.agrocampo.com.co/media/catalog/product/cache/d51e0dc10c379a6229d70d752fc46d83/1/1/111111112-v2-min.jpg",
+    "nombre": "Royal Canin Gastrointestinal",
+    "marca": "Royal Canin Veterinary Diet",
+    "precio": 180000,
+    "presentacion": "2kg",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Alimento medicado para perros con problemas digestivos, favorece la flora intestinal.",
+      "stock": 35,
+      "valoracion": 4.8,
+      "promocion": false,
+      "precio_descuento": 160000
+    }
+  },
+  {
+    "id": "a12",
+    "categoria": "Alimento",
+    "imagen": "https://veterinariaelcountry.com/wp-content/uploads/science-diet-gato-i-d-x-1.81kg.jpg",
+    "nombre": "Hill’s Prescription Diet i/d Digestive Care",
+    "marca": "Hill’s",
+    "precio": 190000,
+    "presentacion": "1.5kg",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Alimento medicado para gatos con trastornos digestivos, ayuda a restaurar la flora intestinal.",
+      "stock": 40,
+      "valoracion": 4.9,
+      "promocion": true,
+      "precio_descuento": 170000
+    }
+  },
+  {
+    "id": "a13",
+    "categoria": "Alimento",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_777876-MCO53369529903_012023-O.webp",
+    "nombre": "Pedigree Dentastix",
+    "marca": "Pedigree",
+    "precio": 25000,
+    "presentacion": "Paquete x14 sticks",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Snacks dentales para perros medianos, ayudan a limpiar dientes y encías.",
+      "stock": 90,
+      "valoracion": 4.7,
+      "promocion": true,
+      "precio_descuento": 22000
+    }
+  },
+  {
+    "id": "a14",
+    "categoria": "Alimento",
+    "imagen": "https://asset.action.com/image/upload/t_digital_product_image/w_1080/37492983.webp",
+    "nombre": "Whiskas Crunchy Treats",
+    "marca": "Whiskas",
+    "precio": 15000,
+    "presentacion": "Paquete 60g",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Galletas crujientes para gatos, con sabor a pollo y relleno suave.",
+      "stock": 200,
+      "valoracion": 4.5,
+      "promocion": false,
+      "precio_descuento": 12000
+    }
+  },
+
+  {
+    "id": "m1",
+    "categoria": "Medicamento",
+    "imagen": "https://ejemplo.com/imagenes/carvantel-inyectable.jpg",
+    "nombre": "Carvantel Antiparasitario Inyectable",
+    "marca": "Carvantel",
+    "precio": 28000,
+    "presentacion": "Frasco 2ml (uso inyectable)",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Antiparasitario interno en solución inyectable para perros y gatos. Efectivo contra lombrices y tenias.",
+      "stock": 35,
+      "valoracion": 4.6,
+      "promocion": false,
+      "precio_descuento": 25000
+    }
+  },
+  {
+    "id": "m2",
+    "categoria": "Medicamento",
+    "imagen": "https://cat-oh.com/wp-content/uploads/2025/05/Vetoquinol-Gato-Felovite-II-Vitamina-y-Suplemento-con-Taurina-1.jpg",
+    "nombre": "Felovite Plus",
+    "marca": "Zoetis",
+    "precio": 28000,
+    "presentacion": "Tubo 60g",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Suplemento vitamínico en pasta para gatos, ayuda a mejorar el apetito y aporta energía.",
+      "stock": 100,
+      "valoracion": 4.7,
+      "promocion": false,
+      "precio_descuento": 25000
+    }
+  },
+  {
+    "id": "m3",
+    "categoria": "Medicamento",
+    "imagen": "https://m.media-amazon.com/images/I/512BD3lWXVL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
+    "nombre": "ProbioPet Digestive Tabs",
+    "marca": "ProbioPet",
+    "precio": 35000,
+    "presentacion": "Frasco x60 tabletas",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Tabletas con probióticos y prebióticos para mejorar la flora intestinal y digestión en perros.",
+      "stock": 70,
+      "valoracion": 4.7,
+      "promocion": true,
+      "precio_descuento": 30000
+    }
+  },
+  {
+    "id": "m4",
+    "categoria": "Medicamento",
+    "imagen": "https://vetmasagro.com/wp-content/uploads/2024/05/vitapet.jpg",
+    "nombre": "VitaPet Pasta Multivitamínica",
+    "marca": "VitaPet",
+    "precio": 32000,
+    "presentacion": "Tubo 20g",
+    "especie": ["Perro", "Gato"],
+    "data": {
+      "descripcion": "Pasta multivitamínica para perros y gatos, fortalece el sistema inmune y mejora el apetito.",
+      "stock": 60,
+      "valoracion": 4.5,
+      "promocion": false,
+      "precio_descuento": 28000
+    }
+  },
+  {
+    "id": "m5",
+    "categoria": "Medicamento",
+    "imagen": "https://www.pacopetshop.it/5108-thickbox_default/dentalpet-pasta-dentifrica-para-perros-y-gatos.jpg",
+    "nombre": "DentalPet Pasta Oral",
+    "marca": "DentalPet",
+    "precio": 22000,
+    "presentacion": "Tubo 50g",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Pasta oral para higiene dental en perros, ayuda a prevenir placa y mal aliento.",
+      "stock": 90,
+      "valoracion": 4.4,
+      "promocion": false,
+      "precio_descuento": 20000
+    }
+  },
+  {
+    "id": "m6",
+    "categoria": "Medicamento",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_818626-MLA74806225171_022024-O.webp",
+    "nombre": "Felovite Plus",
+    "marca": "Zoetis",
+    "precio": 28000,
+    "presentacion": "Tubo 60g",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Suplemento vitamínico en pasta para gatos, mejora apetito y energía.",
+      "stock": 100,
+      "valoracion": 4.6,
+      "promocion": false,
+      "precio_descuento": 25000
+    }
+  },
+  {
+    "id": "m7",
+    "categoria": "Medicamento",
+    "imagen": "https://ejemplo.com/imagenes/pasta-antipulgas.jpg",
+    "nombre": "Antipulgas Oral Paste",
+    "marca": "NexGard SPECTRA",
+    "precio": 30000,
+    "presentacion": "Tubo 10g",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Pasta oral antipulgas para perros y gatos, fácil de administrar.",
+      "stock": 40,
+      "valoracion": 4.3,
+      "promocion": true,
+      "precio_descuento": 27000
+    }
+  },
+  {
+    "id": "m8",
+    "categoria": "Medicamento",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_876563-MCO83875678243_042025-O.webp",
+    "nombre": "CaninE Plus Multivitamínico",
+    "marca": "Canine Plus",
+    "precio": 45000,
+    "presentacion": "Frasco x100 tabletas",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Suplemento vitamínico en tabletas para perros adultos, fortalece sistema inmune.",
+      "stock": 75,
+      "valoracion": 4.7,
+      "promocion": true,
+      "precio_descuento": 40000
+    }
+  },
+  {
+    "id": "m9",
+    "categoria": "Medicamento",
+    "imagen": "https://www.agrocampo.com.co/media/catalog/product/cache/d51e0dc10c379a6229d70d752fc46d83/5/8/5858158105810000095-min.jpg",
+    "nombre": "Purina Pro Plan FortiFlora",
+    "marca": "Purina Pro Plan",
+    "precio": 120000,
+    "presentacion": "Caja x30 sobres",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Suplemento probiótico para perros, ayuda a mantener la flora intestinal y mejorar la digestión.",
+      "stock": 45,
+      "valoracion": 4.9,
+      "promocion": true,
+      "precio_descuento": 100000
+    }
+  },
+  {
+    "id": "m10",
+    "categoria": "Medicamento",
+    "imagen": "https://www.crisdietetica.com/cdn/shop/products/EnergyPet_Basic_4kg_br_c62fc360-7a8c-44c6-b922-09489fd75f2a_580x.png?v=1634898411",
+    "nombre": "EnergyPet Pasta Nutritiva",
+    "marca": "EnergyPet",
+    "precio": 35000,
+    "presentacion": "Tubo 25g",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Pasta energizante para perros y gatos, ideal para recuperación tras enfermedad o cirugía.",
+      "stock": 30,
+      "valoracion": 4.5,
+      "promocion": false,
+      "precio_descuento": 32000
+    }
+  },
+  {
+    "id": "m11",
+    "categoria": "Medicamento",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_705967-MLA99845175807_112025-O.webp",
+    "nombre": "JointCare Tabs",
+    "marca": "JointCare",
+    "precio": 60000,
+    "presentacion": "Frasco x60 tabletas",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Tabletas con glucosamina y condroitina para salud articular en perros.",
+      "stock": 50,
+      "valoracion": 4.8,
+      "promocion": false,
+      "precio_descuento": 55000
+    }
+  },
+  {
+    "id": "m12",
+    "categoria": "Medicamento",
+    "imagen": "https://www.animed.co.uk/media/catalog/product/1/7/17325_ecommerce_hairball-paste-cat_en_2023-1_5tt9kvdhhkyh9c5q.jpg?optimize=medium&bg-color=255,255,255&fit=bounds&height=&width=",
+    "nombre": "Hairball Control Paste",
+    "marca": "beaphar",
+    "precio": 25000,
+    "presentacion": "Tubo 100g",
+    "especie": ["Gato"],
+    "data": {
+      "descripcion": "Pasta para gatos que ayuda a controlar y prevenir bolas de pelo.",
+      "stock": 80,
+      "valoracion": 4.6,
+      "promocion": true,
+      "precio_descuento": 22000
+    }
+  },
+  {
+    "id": "m13",
+    "categoria": "Medicamento",
+    "imagen": "https://http2.mlstatic.com/D_Q_NP_664519-MLU54964781668_042023-O.webp",
+    "nombre": "CalcioPet Tabs",
+    "marca": "CalcioPet",
+    "precio": 40000,
+    "presentacion": "Frasco x90 tabletas",
+    "especie": ["Perro", "Gato"],
+    "data": {
+      "descripcion": "Suplemento de calcio en tabletas para fortalecer huesos y dientes.",
+      "stock": 65,
+      "valoracion": 4.5,
+      "promocion": false,
+      "precio_descuento": 37000
+    }
+  },
+  {
+    "id": "m14",
+    "categoria": "Medicamento",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_725093-MLA99812564255_112025-O.webp",
+    "nombre": "Pet Tabs Suplemento Vitamínico",
+    "marca": "Pfizer",
+    "precio": 40000,
+    "presentacion": "Frasco x60 tabletas",
+    "especie": ["Perro"],
+    "data": {
+      "descripcion": "Suplemento vitamínico y mineral en tabletas para perros. Ayuda a mantener energía, apetito y salud general.",
+      "stock": 70,
+      "valoracion": 4.7,
+      "promocion": true,
+      "precio_descuento": 35000
+    }
+  },
+[
+  {
+    "id": "j1",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_704196-MCO93478995823_092025-P.webp",
+    "nombre": "KONG Classic Rojo",
+    "marca": "KONG",
+    "precio": 65000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Juguete de caucho natural ultra resistente, ideal para morder y rellenar con premios.",
+      "stock": 40,
+      "valoracion": 4.9,
+      "promocion": true,
+      "precio_descuento": 60000
+    }
+  },
+  {
+    "id": "j2",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://petitpaws.com.co/cdn/shop/files/Kong-Extreme-Goodie-Bone-M.jpg?v=1744934650&width=1946",
+    "nombre": "KONG Goodie Bone",
+    "marca": "KONG",
+    "precio": 55000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Hueso de caucho duradero para perros, diseñado para rellenar con snacks.",
+      "stock": 35,
+      "valoracion": 4.8,
+      "promocion": false,
+      "precio_descuento": 50000
+    }
+  },
+  {
+    "id": "j3",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://www.agrocampo.com.co/media/catalog/product/cache/d51e0dc10c379a6229d70d752fc46d83/_/3/_3_3_333300239_ed-min.jpg",
+    "nombre": "Chuckit! Ultra Flying Squirrel",
+    "marca": "Chuckit!",
+    "precio": 45000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Frisbee cuadrado de alta resistencia, ideal para juegos al aire libre.",
+      "stock": 60,
+      "valoracion": 4.7,
+      "promocion": true,
+      "precio_descuento": 40000
+    }
+  },
+  {
+    "id": "j4",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://m.media-amazon.com/images/I/81aPVeYzxoL._AC_UF894,1000_QL80_.jpg",
+    "nombre": "Pelota de cuerda interactiva",
+    "marca": "Genérico",
+    "precio": 20000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Pelota hecha de cuerda trenzada, ideal para morder y jugar al tira y afloja.",
+      "stock": 80,
+      "valoracion": 4.3,
+      "promocion": false,
+      "precio_descuento": 18000
+    }
+  },
+  {
+    "id": "j5",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://guaw.com/35664-thickbox_default/juguete-cuerda-con-pelota-zolux-para-perro-23-cm.jpg",
+    "nombre": "Zolux Juguete de cuerda",
+    "marca": "Zolux",
+    "precio": 25000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Juguete de cuerda de 35 cm, resistente y colorido para perros medianos.",
+      "stock": 55,
+      "valoracion": 4.6,
+      "promocion": false,
+      "precio_descuento": 22000
+    }
+  },
+  {
+    "id": "j6",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://ceba.com.co/cdn/shop/files/20.jpg?v=1684874537",
+    "nombre": "Pelota mordedora de caucho",
+    "marca": "Vet",
+    "precio": 18000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Pelota de caucho reforzado para perros, ideal para juegos de lanzar y traer.",
+      "stock": 100,
+      "valoracion": 4.5,
+      "promocion": true,
+      "precio_descuento": 15000
+    }
+  },
+  {
+    "id": "j7",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_928890-MCO81421698718_122024-O.webp",
+    "nombre": "Rascador con alfombra sisal",
+    "marca": "Nutrican",
+    "precio": 40000,
+    "especie": ["Gato"],
+    "tipo": "Accesorio",
+    "data": {
+      "descripcion": "Poste rascador con base azul y alfombra de sisal, incluye pelota colgante.",
+      "stock": 30,
+      "valoracion": 4.6,
+      "promocion": false,
+      "precio_descuento": 35000
+    }
+  },
+  {
+    "id": "j8",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQjqImWbYZl3IagC1Q6pPoKuai8uqBqMF3yw&s",
+    "nombre": "Pelota con cascabel Zolia",
+    "marca": "Zolia",
+    "precio": 12000,
+    "especie": ["Gato"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Pelota con cascabel y pelaje para gatos, estimula el juego y la caza.",
+      "stock": 90,
+      "valoracion": 4.4,
+      "promocion": true,
+      "precio_descuento": 10000
+    }
+  },
+  {
+    "id": "j9",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://image.chewy.com/catalog/general/images/kong-playground-garden-cat-toy-green/img-227208._AC_SX500_SY400_QL75_V1_.jpg",
+    "nombre": "KONG Playground",
+    "marca": "KONG",
+    "precio": 75000,
+    "especie": ["Gato"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Centro de juegos interactivo para gatos, incluye bola y ratón de peluche.",
+      "stock": 25,
+      "valoracion": 4.8,
+      "promocion": false,
+      "precio_descuento": 70000
+    }
+  },
+  {
+    "id": "j10",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://i5.walmartimages.com/asr/1ec9c880-b718-4ab0-a340-80f2b2a3cf6d.fb35e7aae2d1f1061f6aae6de4e5f838.jpeg?odnHeight=612&odnWidth=612&odnBg=FFFFFF",
+    "nombre": "Ratón teledirigido",
+    "marca": "Genérico",
+    "precio": 35000,
+    "especie": ["Gato"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Ratón de peluche teledirigido para gatos, ideal para estimular el instinto cazador.",
+      "stock": 40,
+      "valoracion": 4.5,
+      "promocion": true,
+      "precio_descuento": 30000
+    }
+  },
+  {
+    "id": "j11",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF3PMKVMbHlaL8dpJeXIwIhIrsPZUAX7_LPg&s",
+    "nombre": "Tower of Tracks",
+    "marca": "Pet Love Pets",
+    "precio": 28000,
+    "especie": ["Gato"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Juguete interactivo con tres niveles y pelotas de colores para gatos.",
+      "stock": 70,
+      "valoracion": 4.7,
+      "promocion": false,
+      "precio_descuento": 25000
+    }
+  },
+  {
+    "id": "j12",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2SktKRH_br4zpcl4T_2VVjxdBY-elr9DKfg&s",
+    "nombre": "Frisbee sabor bacon",
+    "marca": "Kikkerland",
+    "precio": 30000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Frisbee rojo con sabor a bacon, diseñado para juegos de lanzar y atrapar.",
+      "stock": 50,
+      "valoracion": 4.6,
+      "promocion": true,
+      "precio_descuento": 27000
+    }
+  },
+  {
+    "id": "j13",
+    "categoria": "Accesorios/Juguetes",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfoM_u9hqK-DdDEalG7n8Os87D6eemwtS_5g&s",
+    "nombre": "Hueso de caucho Fancy Pets",
+    "marca": "Fancy Pets",
+    "precio": 20000,
+    "especie": ["Perro"],
+    "tipo": "Juguete",
+    "data": {
+      "descripcion": "Hueso de caucho texturizado con huellas, ideal para morder y entretener.",
+      "stock": 65,
+      "valoracion": 4.5,
+      "promocion": false,
+      "precio_descuento": 18000
+    }
+  }
+]
+
+]
