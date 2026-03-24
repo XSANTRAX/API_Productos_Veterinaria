@@ -476,7 +476,6 @@
       "precio_descuento": 35000
     }
   },
-[
   {
     "id": "j1",
     "categoria": "Accesorios/Juguetes",
@@ -698,6 +697,4 @@
       "precio_descuento": 18000
     }
   }
-]
-
 ]
