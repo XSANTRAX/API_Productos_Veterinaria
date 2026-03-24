@@ -256,23 +256,6 @@
     }
   },
   {
-    "id": "m2",
-    "categoria": "Medicamento",
-    "imagen": "https://cat-oh.com/wp-content/uploads/2025/05/Vetoquinol-Gato-Felovite-II-Vitamina-y-Suplemento-con-Taurina-1.jpg",
-    "nombre": "Felovite Plus",
-    "marca": "Zoetis",
-    "precio": 28000,
-    "presentacion": "Tubo 60g",
-    "especie": ["Gato"],
-    "data": {
-      "descripcion": "Suplemento vitamínico en pasta para gatos, ayuda a mejorar el apetito y aporta energía.",
-      "stock": 100,
-      "valoracion": 4.7,
-      "promocion": false,
-      "precio_descuento": 25000
-    }
-  },
-  {
     "id": "m3",
     "categoria": "Medicamento",
     "imagen": "https://m.media-amazon.com/images/I/512BD3lWXVL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
