@@ -18,7 +18,8 @@ export class prodModel {
       filteredProductos = filteredProductos.filter(
         (prod) =>
           prod.nombre.toLowerCase().includes(searchTerm) ||
-          prod.data.descripcion.toLowerCase().includes(searchTerm),
+          prod.data.descripcion.toLowerCase().includes(searchTerm)||
+          prod.marca.toLowerCase().includes(searchTerm),
       );
     }
 
