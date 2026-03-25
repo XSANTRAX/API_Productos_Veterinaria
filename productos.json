@@ -256,6 +256,23 @@
     }
   },
   {
+  "id": "m2",
+  "categoria": "Medicamento",
+  "imagen": "https://taypets.com/cdn/shop/products/AmoxipetPLUS_muestra.jpg?v=1656291094",
+  "nombre": "AmoxiPet Suspensión Oral",
+  "marca": "VetPharma",
+  "precio": 55000,
+  "presentacion": "Frasco 60ml (uso oral)",
+  "especie": ["Perro", "Gato"],
+  "data": {
+    "descripcion": "Antibiótico de amplio espectro en suspensión oral para perros y gatos. Indicado en infecciones bacterianas respiratorias, digestivas y urinarias.",
+    "stock": 45,
+    "valoracion": 4.8,
+    "promocion": true,
+    "precio_descuento": 48000
+    }
+  },
+  {
     "id": "m3",
     "categoria": "Medicamento",
     "imagen": "https://m.media-amazon.com/images/I/512BD3lWXVL.jpg_BO30,255,255,255_UF750,750_SR1910,1000,0,C_QL100_.jpg",
@@ -459,7 +476,7 @@
       "precio_descuento": 35000
     }
   },
-  {
+  { 
     "id": "j1",
     "categoria": "Accesorios/Juguetes",
     "imagen": "https://http2.mlstatic.com/D_Q_NP_2X_704196-MCO93478995823_092025-P.webp",
