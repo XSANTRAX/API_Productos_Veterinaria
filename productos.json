@@ -241,7 +241,7 @@
   {
     "id": "m1",
     "categoria": "Medicamento",
-    "imagen": "https://ejemplo.com/imagenes/carvantel-inyectable.jpg",
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_999804-MCO83443952679_032025-O.webp",
     "nombre": "Carvantel Antiparasitario Inyectable",
     "marca": "Carvantel",
     "precio": 28000,
@@ -326,14 +326,14 @@
   {
     "id": "m7",
     "categoria": "Medicamento",
-    "imagen": "https://ejemplo.com/imagenes/pasta-antipulgas.jpg",
-    "nombre": "Antipulgas Oral Paste",
+    "imagen": "https://www.agrocampo.com.co/media/catalog/product/cache/d51e0dc10c379a6229d70d752fc46d83/5/1/5151151105110480005-v3-min.jpg",
+    "nombre": "Pastilla comestible Antipulgas",
     "marca": "NexGard SPECTRA",
     "precio": 30000,
     "presentacion": "Tubo 10g",
     "especie": ["Perro"],
     "data": {
-      "descripcion": "Pasta oral antipulgas para perros y gatos, fácil de administrar.",
+      "descripcion": "Pasta oral antipulgas para perros, fácil de administrar.",
       "stock": 40,
       "valoracion": 4.3,
       "promocion": true,

@@ -45,7 +45,7 @@ export class prodController {
       return res.status(404).json({ error: "product not found" });
     }
 
-    return res.json({ data: prod });
+    return res.json({ data: [prod] });
   }
 
   static async create(req, res) {
@@ -71,7 +71,7 @@ export class prodController {
       data,
     });
 
-    return res.status(201).json({ data: newprod });
+    return res.status(201).json({ data: [newprod] });
   }
 
   static async update(req, res) {
@@ -120,7 +120,7 @@ export class prodController {
       return res.status(404).json({ error: "product not found" });
     }
 
-    return res.json({ data: actualizado });
+    return res.json({ data: [actualizado] });
   }
 
   static async patch(req, res) {
@@ -138,7 +138,7 @@ export class prodController {
       return res.status(404).json({ error: "product not found" });
     }
 
-    return res.json({ data: modificados });
+    return res.json({ data: [modificados] });
   }
   static async delete(req, res) {
     const { id } = req.params;
@@ -154,6 +154,9 @@ export class prodController {
       return res.status(404).json({ error: "product not found" });
     }
 
-    return res.json({ message: "product deleted", data: deleted });
+    return res.json({
+    data: [deleted],
+    message: "product deleted"
+  });
   }
 }
